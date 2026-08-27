@@ -6,6 +6,7 @@ My LeetCode solutions and problem-solving practice.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0053-maximum-subarray](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0118-pascals-triangle](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
@@ -44,6 +45,7 @@ My LeetCode solutions and problem-solving practice.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |

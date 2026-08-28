@@ -11,6 +11,7 @@ My LeetCode solutions and problem-solving practice.
 | [0018-4sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0053-maximum-subarray](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -30,6 +31,7 @@ My LeetCode solutions and problem-solving practice.
 | ------- | ------- |
 | [0015-3sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0018-4sum/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0912-sort-an-array](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
@@ -88,6 +90,7 @@ My LeetCode solutions and problem-solving practice.
 | ------- | ------- |
 | [0015-3sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0018-4sum/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |

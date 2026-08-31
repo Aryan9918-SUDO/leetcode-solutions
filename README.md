@@ -25,6 +25,7 @@ My LeetCode solutions and problem-solving practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0148-sort-list](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0912-sort-an-array](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 ## Sorting
@@ -33,6 +34,7 @@ My LeetCode solutions and problem-solving practice.
 | [0015-3sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0148-sort-list](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0912-sort-an-array](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
@@ -43,6 +45,7 @@ My LeetCode solutions and problem-solving practice.
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [0912-sort-an-array](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -93,6 +96,7 @@ My LeetCode solutions and problem-solving practice.
 | [0015-3sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0148-sort-list](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
@@ -118,6 +122,7 @@ My LeetCode solutions and problem-solving practice.
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0328-odd-even-linked-list/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 <!---LeetCode Topics End-->

@@ -22,7 +22,7 @@ public:
             fast=fast->next->next;
         }
         ListNode * prev = nullptr;
-        ListNode * curr = slow;
+        ListNode * curr = slow->next;
         while(curr!=nullptr){
             ListNode * front = curr->next;
             curr->next = prev;
@@ -31,7 +31,7 @@ public:
         }
         ListNode * right = head;
         ListNode * left = prev;
-        while(right!=nullptr){
+        while(left!=nullptr){
             if(left->val!=right->val){
                 return false;
             }

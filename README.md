@@ -104,6 +104,7 @@ My LeetCode solutions and problem-solving practice.
 | [0148-sort-list](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
@@ -138,6 +139,7 @@ My LeetCode solutions and problem-solving practice.
 | [0234-palindrome-linked-list](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0328-odd-even-linked-list/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |

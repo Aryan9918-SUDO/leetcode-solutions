@@ -23,6 +23,7 @@ My LeetCode solutions and problem-solving practice.
 | [0229-majority-element-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0912-sort-an-array](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Divide and Conquer
@@ -169,4 +170,5 @@ My LeetCode solutions and problem-solving practice.
 | ------- | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 <!---LeetCode Topics End-->

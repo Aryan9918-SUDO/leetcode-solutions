@@ -7,6 +7,7 @@ My LeetCode solutions and problem-solving practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0015-3sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0053-maximum-subarray](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
@@ -31,6 +32,7 @@ My LeetCode solutions and problem-solving practice.
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0148-sort-list](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
@@ -170,6 +172,7 @@ My LeetCode solutions and problem-solving practice.
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |

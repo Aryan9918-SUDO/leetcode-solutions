@@ -115,6 +115,7 @@ My LeetCode solutions and problem-solving practice.
 | [0053-maximum-subarray](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -147,6 +148,7 @@ My LeetCode solutions and problem-solving practice.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0131-palindrome-partitioning](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -205,5 +207,6 @@ My LeetCode solutions and problem-solving practice.
 | [0040-combination-sum-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0216-combination-sum-iii/) | Medium |
 <!---LeetCode Topics End-->

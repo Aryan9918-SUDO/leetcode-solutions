@@ -27,6 +27,7 @@ My LeetCode solutions and problem-solving practice.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
+| [0216-combination-sum-iii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0216-combination-sum-iii/) | Medium |
 | [0229-majority-element-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -204,4 +205,5 @@ My LeetCode solutions and problem-solving practice.
 | [0040-combination-sum-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
+| [0216-combination-sum-iii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0216-combination-sum-iii/) | Medium |
 <!---LeetCode Topics End-->

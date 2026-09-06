@@ -12,6 +12,7 @@ My LeetCode solutions and problem-solving practice.
 | [0018-4sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0039-combination-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0040-combination-sum-ii/) | Medium |
+| [0051-n-queens](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -205,8 +206,13 @@ My LeetCode solutions and problem-solving practice.
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0040-combination-sum-ii/) | Medium |
+| [0051-n-queens](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0216-combination-sum-iii/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->

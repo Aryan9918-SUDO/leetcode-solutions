@@ -232,6 +232,7 @@ My LeetCode solutions and problem-solving practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0101-symmetric-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -242,6 +243,7 @@ My LeetCode solutions and problem-solving practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0101-symmetric-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -251,6 +253,7 @@ My LeetCode solutions and problem-solving practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0101-symmetric-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -260,6 +263,7 @@ My LeetCode solutions and problem-solving practice.
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 ## DP on Trees

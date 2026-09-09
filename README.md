@@ -106,6 +106,7 @@ My LeetCode solutions and problem-solving practice.
 | [0128-longest-consecutive-sequence](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -262,6 +263,7 @@ My LeetCode solutions and problem-solving practice.
 | [0200-number-of-islands](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
+| [0785-is-graph-bipartite](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -282,10 +284,23 @@ My LeetCode solutions and problem-solving practice.
 | [0130-surrounded-regions](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
+| [0785-is-graph-bipartite](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0994-rotting-oranges](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0785-is-graph-bipartite/) | Medium |
+## Graph Coloring
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0785-is-graph-bipartite/) | Medium |
+## Bipartite Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 <!---LeetCode Topics End-->

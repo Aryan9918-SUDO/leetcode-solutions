@@ -266,6 +266,7 @@ My LeetCode solutions and problem-solving practice.
 | [0543-diameter-of-binary-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -289,6 +290,7 @@ My LeetCode solutions and problem-solving practice.
 | [0200-number-of-islands](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0994-rotting-oranges](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
@@ -299,6 +301,7 @@ My LeetCode solutions and problem-solving practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0785-is-graph-bipartite](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Graph Coloring
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -307,4 +310,16 @@ My LeetCode solutions and problem-solving practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0785-is-graph-bipartite](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0785-is-graph-bipartite/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Kosaraju's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Tarjan's SCC Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0802-find-eventual-safe-states/) | Medium |
 <!---LeetCode Topics End-->

@@ -36,6 +36,7 @@ My LeetCode solutions and problem-solving practice.
 | [0240-search-a-2d-matrix-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0733-flood-fill](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
+| [0835-image-overlap](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0835-image-overlap/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0912-sort-an-array](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0994-rotting-oranges](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
@@ -121,6 +122,7 @@ My LeetCode solutions and problem-solving practice.
 | [0200-number-of-islands](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0733-flood-fill](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
+| [0835-image-overlap](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0835-image-overlap/) | Medium |
 | [0994-rotting-oranges](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2643-row-with-maximum-ones/) | Easy |

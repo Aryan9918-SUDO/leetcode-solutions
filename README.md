@@ -142,6 +142,7 @@ My LeetCode solutions and problem-solving practice.
 | [0131-palindrome-partitioning](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -327,6 +328,7 @@ My LeetCode solutions and problem-solving practice.
 | [0785-is-graph-bipartite](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Graph Coloring
 | Problem Name | Difficulty |
@@ -362,6 +364,7 @@ My LeetCode solutions and problem-solving practice.
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Geometry
@@ -372,5 +375,14 @@ My LeetCode solutions and problem-solving practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+## Bellman–Ford Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
+## Floyd–Warshall Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 <!---LeetCode Topics End-->

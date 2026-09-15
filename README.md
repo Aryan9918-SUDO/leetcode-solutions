@@ -138,6 +138,7 @@ My LeetCode solutions and problem-solving practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0062-unique-paths](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
@@ -170,6 +171,7 @@ My LeetCode solutions and problem-solving practice.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0836-rectangle-overlap](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -395,4 +397,8 @@ My LeetCode solutions and problem-solving practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->

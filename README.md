@@ -149,6 +149,7 @@ My LeetCode solutions and problem-solving practice.
 | [0213-house-robber-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -174,6 +175,7 @@ My LeetCode solutions and problem-solving practice.
 | [0062-unique-paths](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0836-rectangle-overlap](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0836-rectangle-overlap/) | Easy |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -182,6 +184,7 @@ My LeetCode solutions and problem-solving practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -401,4 +404,5 @@ My LeetCode solutions and problem-solving practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 <!---LeetCode Topics End-->

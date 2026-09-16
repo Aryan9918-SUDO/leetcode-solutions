@@ -16,6 +16,7 @@ My LeetCode solutions and problem-solving practice.
 | [0051-n-queens](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
+| [0063-unique-paths-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -120,6 +121,7 @@ My LeetCode solutions and problem-solving practice.
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0054-spiral-matrix](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
+| [0063-unique-paths-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0130-surrounded-regions](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
@@ -139,6 +141,7 @@ My LeetCode solutions and problem-solving practice.
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
+| [0063-unique-paths-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0119-pascals-triangle-ii/) | Easy |

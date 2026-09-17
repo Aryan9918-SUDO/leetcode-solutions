@@ -48,6 +48,7 @@ My LeetCode solutions and problem-solving practice.
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [2395-find-subarrays-with-equal-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -109,6 +110,7 @@ My LeetCode solutions and problem-solving practice.
 | [0169-majority-element](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [2395-find-subarrays-with-equal-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |

@@ -40,6 +40,7 @@ My LeetCode solutions and problem-solving practice.
 | [0240-search-a-2d-matrix-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0733-flood-fill](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
+| [0741-cherry-pickup](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0741-cherry-pickup/) | Hard |
 | [0835-image-overlap](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0835-image-overlap/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0912-sort-an-array](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
@@ -133,6 +134,7 @@ My LeetCode solutions and problem-solving practice.
 | [0200-number-of-islands](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0733-flood-fill](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
+| [0741-cherry-pickup](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0741-cherry-pickup/) | Hard |
 | [0835-image-overlap](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0835-image-overlap/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0994-rotting-oranges](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
@@ -158,6 +160,7 @@ My LeetCode solutions and problem-solving practice.
 | [0152-maximum-product-subarray](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0213-house-robber-ii/) | Medium |
+| [0741-cherry-pickup](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0741-cherry-pickup/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |

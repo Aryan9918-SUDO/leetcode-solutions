@@ -25,6 +25,7 @@ My LeetCode solutions and problem-solving practice.
 | [0118-pascals-triangle](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0120-triangle](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0120-triangle/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0137-single-number-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0137-single-number-ii/) | Medium |
@@ -157,6 +158,7 @@ My LeetCode solutions and problem-solving practice.
 | [0118-pascals-triangle](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0120-triangle](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0120-triangle/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0152-maximum-product-subarray/) | Medium |

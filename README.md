@@ -47,6 +47,7 @@ My LeetCode solutions and problem-solving practice.
 | [0931-minimum-falling-path-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0994-rotting-oranges](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1463-cherry-pickup-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -138,6 +139,7 @@ My LeetCode solutions and problem-solving practice.
 | [0835-image-overlap](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0835-image-overlap/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0994-rotting-oranges](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
+| [1463-cherry-pickup-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -164,6 +166,7 @@ My LeetCode solutions and problem-solving practice.
 | [0787-cheapest-flights-within-k-stops](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
+| [1463-cherry-pickup-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |

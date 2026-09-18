@@ -44,6 +44,7 @@ My LeetCode solutions and problem-solving practice.
 | [0240-search-a-2d-matrix-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0733-flood-fill](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0741-cherry-pickup](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0741-cherry-pickup/) | Hard |
 | [0835-image-overlap](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0835-image-overlap/) | Medium |
@@ -172,6 +173,7 @@ My LeetCode solutions and problem-solving practice.
 | [0198-house-robber](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0741-cherry-pickup](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0741-cherry-pickup/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
@@ -443,4 +445,5 @@ My LeetCode solutions and problem-solving practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 <!---LeetCode Topics End-->

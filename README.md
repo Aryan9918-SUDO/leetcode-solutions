@@ -42,6 +42,7 @@ My LeetCode solutions and problem-solving practice.
 | [0216-combination-sum-iii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0216-combination-sum-iii/) | Medium |
 | [0229-majority-element-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -175,6 +176,7 @@ My LeetCode solutions and problem-solving practice.
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0213-house-robber-ii/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -278,6 +280,7 @@ My LeetCode solutions and problem-solving practice.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -469,4 +472,8 @@ My LeetCode solutions and problem-solving practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->

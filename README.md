@@ -49,6 +49,7 @@ My LeetCode solutions and problem-solving practice.
 | [0416-partition-equal-subset-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0494-target-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0733-flood-fill](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0741-cherry-pickup](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0741-cherry-pickup/) | Hard |
@@ -187,6 +188,7 @@ My LeetCode solutions and problem-solving practice.
 | [0368-largest-divisible-subset](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0494-target-sum/) | Medium |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0741-cherry-pickup](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0741-cherry-pickup/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -486,4 +488,13 @@ My LeetCode solutions and problem-solving practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->

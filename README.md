@@ -188,6 +188,7 @@ My LeetCode solutions and problem-solving practice.
 | [0368-largest-divisible-subset](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0494-target-sum/) | Medium |
+| [0516-longest-palindromic-subsequence](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0741-cherry-pickup](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0741-cherry-pickup/) | Hard |
@@ -241,6 +242,7 @@ My LeetCode solutions and problem-solving practice.
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0127-word-ladder/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0516-longest-palindromic-subsequence](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [1048-longest-string-chain](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |

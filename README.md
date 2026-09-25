@@ -170,6 +170,7 @@ My LeetCode solutions and problem-solving practice.
 | [0062-unique-paths](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0072-edit-distance](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
 | [0118-pascals-triangle](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0120-triangle](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0120-triangle/) | Medium |
@@ -240,6 +241,7 @@ My LeetCode solutions and problem-solving practice.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0072-edit-distance](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
 | [0127-word-ladder](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0127-word-ladder/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |

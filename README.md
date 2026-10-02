@@ -67,6 +67,7 @@ My LeetCode solutions and problem-solving practice.
 | [1695-maximum-erasure-value](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1695-maximum-erasure-value/) | Medium |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
+| [2401-longest-nice-subarray](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2401-longest-nice-subarray/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -299,6 +300,7 @@ My LeetCode solutions and problem-solving practice.
 | [0078-subsets](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0137-single-number-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0137-single-number-ii/) | Medium |
+| [2401-longest-nice-subarray](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2401-longest-nice-subarray/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -485,6 +487,7 @@ My LeetCode solutions and problem-solving practice.
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1695-maximum-erasure-value/) | Medium |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
+| [2401-longest-nice-subarray](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2401-longest-nice-subarray/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |

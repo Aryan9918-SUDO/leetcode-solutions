@@ -65,6 +65,7 @@ My LeetCode solutions and problem-solving practice.
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1695-maximum-erasure-value/) | Medium |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -134,6 +135,7 @@ My LeetCode solutions and problem-solving practice.
 | [1048-longest-string-chain](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1695-maximum-erasure-value/) | Medium |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Union-Find
@@ -482,6 +484,7 @@ My LeetCode solutions and problem-solving practice.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1695-maximum-erasure-value/) | Medium |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |

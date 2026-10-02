@@ -166,6 +166,7 @@ My LeetCode solutions and problem-solving practice.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0063-unique-paths-ii/) | Medium |
@@ -241,6 +242,7 @@ My LeetCode solutions and problem-solving practice.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0072-edit-distance](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
 | [0127-word-ladder](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0127-word-ladder/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
@@ -307,6 +309,7 @@ My LeetCode solutions and problem-solving practice.
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0037-sudoku-solver](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0040-combination-sum-ii/) | Medium |
@@ -507,4 +510,8 @@ My LeetCode solutions and problem-solving practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1143-longest-common-subsequence](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1143-longest-common-subsequence/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->

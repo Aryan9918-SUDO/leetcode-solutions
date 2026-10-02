@@ -119,6 +119,7 @@ My LeetCode solutions and problem-solving practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0037-sudoku-solver](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0127-word-ladder](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0127-word-ladder/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -242,6 +243,7 @@ My LeetCode solutions and problem-solving practice.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0072-edit-distance](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
 | [0127-word-ladder](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0127-word-ladder/) | Hard |
@@ -309,6 +311,7 @@ My LeetCode solutions and problem-solving practice.
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0037-sudoku-solver](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |

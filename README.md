@@ -68,6 +68,7 @@ My LeetCode solutions and problem-solving practice.
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2401-longest-nice-subarray](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2401-longest-nice-subarray/) | Medium |
+| [2404-most-frequent-even-element](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -119,6 +120,7 @@ My LeetCode solutions and problem-solving practice.
 | [0169-majority-element](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0912-sort-an-array](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
+| [2404-most-frequent-even-element](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2404-most-frequent-even-element/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +141,7 @@ My LeetCode solutions and problem-solving practice.
 | [1695-maximum-erasure-value](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1695-maximum-erasure-value/) | Medium |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
+| [2404-most-frequent-even-element](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2405-optimal-partition-of-string](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2405-optimal-partition-of-string/) | Medium |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |

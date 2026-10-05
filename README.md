@@ -70,6 +70,7 @@ My LeetCode solutions and problem-solving practice.
 | [2401-longest-nice-subarray](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2401-longest-nice-subarray/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2643-row-with-maximum-ones/) | Easy |
+| [2780-minimum-index-of-a-valid-split](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2780-minimum-index-of-a-valid-split/) | Medium |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -95,6 +96,7 @@ My LeetCode solutions and problem-solving practice.
 | [0368-largest-divisible-subset](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0912-sort-an-array](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 | [1048-longest-string-chain](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1048-longest-string-chain/) | Medium |
+| [2780-minimum-index-of-a-valid-split](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2780-minimum-index-of-a-valid-split/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,6 +145,7 @@ My LeetCode solutions and problem-solving practice.
 | [2395-find-subarrays-with-equal-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2405-optimal-partition-of-string](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2405-optimal-partition-of-string/) | Medium |
+| [2780-minimum-index-of-a-valid-split](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2780-minimum-index-of-a-valid-split/) | Medium |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Union-Find

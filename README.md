@@ -74,6 +74,7 @@ My LeetCode solutions and problem-solving practice.
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
+| [3527-find-the-most-common-response](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/3527-find-the-most-common-response/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Divide and Conquer
@@ -124,6 +125,7 @@ My LeetCode solutions and problem-solving practice.
 | [0229-majority-element-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0912-sort-an-array](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2404-most-frequent-even-element/) | Easy |
+| [3527-find-the-most-common-response](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/3527-find-the-most-common-response/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,6 +151,7 @@ My LeetCode solutions and problem-solving practice.
 | [2780-minimum-index-of-a-valid-split](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2780-minimum-index-of-a-valid-split/) | Medium |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3527-find-the-most-common-response](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/3527-find-the-most-common-response/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -270,6 +273,7 @@ My LeetCode solutions and problem-solving practice.
 | [1048-longest-string-chain](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2405-optimal-partition-of-string/) | Medium |
+| [3527-find-the-most-common-response](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/3527-find-the-most-common-response/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |

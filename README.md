@@ -10,6 +10,7 @@ My LeetCode solutions and problem-solving practice.
 | [0004-median-of-two-sorted-arrays](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0015-3sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0018-4sum/) | Medium |
+| [0031-next-permutation](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0031-next-permutation/) | Medium |
 | [0037-sudoku-solver](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0040-combination-sum-ii/) | Medium |
@@ -232,6 +233,7 @@ My LeetCode solutions and problem-solving practice.
 | ------- | ------- |
 | [0015-3sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0018-4sum/) | Medium |
+| [0031-next-permutation](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0031-next-permutation/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |

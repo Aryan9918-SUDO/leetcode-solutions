@@ -50,6 +50,7 @@ My LeetCode solutions and problem-solving practice.
 | [0494-target-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0494-target-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+| [0697-degree-of-an-array](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0697-degree-of-an-array/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0733-flood-fill](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0741-cherry-pickup](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0741-cherry-pickup/) | Hard |
@@ -142,6 +143,7 @@ My LeetCode solutions and problem-solving practice.
 | [0169-majority-element](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0697-degree-of-an-array](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0697-degree-of-an-array/) | Easy |
 | [1048-longest-string-chain](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1695-maximum-erasure-value/) | Medium |

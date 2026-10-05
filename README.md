@@ -73,6 +73,7 @@ My LeetCode solutions and problem-solving practice.
 | [2780-minimum-index-of-a-valid-split](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2780-minimum-index-of-a-valid-split/) | Medium |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Divide and Conquer

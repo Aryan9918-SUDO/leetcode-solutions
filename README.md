@@ -69,6 +69,7 @@ My LeetCode solutions and problem-solving practice.
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1695-maximum-erasure-value/) | Medium |
+| [1901-find-a-peak-element-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2401-longest-nice-subarray](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2401-longest-nice-subarray/) | Medium |
@@ -184,6 +185,7 @@ My LeetCode solutions and problem-solving practice.
 | [0994-rotting-oranges](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [1901-find-a-peak-element-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Simulation
@@ -348,6 +350,7 @@ My LeetCode solutions and problem-solving practice.
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [1901-find-a-peak-element-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |

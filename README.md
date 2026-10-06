@@ -276,6 +276,7 @@ My LeetCode solutions and problem-solving practice.
 | [0131-palindrome-partitioning](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1048-longest-string-chain](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2405-optimal-partition-of-string/) | Medium |
@@ -313,6 +314,7 @@ My LeetCode solutions and problem-solving practice.
 | [0145-binary-tree-postorder-traversal](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0856-score-of-parentheses](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -518,6 +520,7 @@ My LeetCode solutions and problem-solving practice.
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2405-optimal-partition-of-string/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
@@ -556,4 +559,5 @@ My LeetCode solutions and problem-solving practice.
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 <!---LeetCode Topics End-->

@@ -60,6 +60,7 @@ My LeetCode solutions and problem-solving practice.
 | [0835-image-overlap](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0835-image-overlap/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0912-sort-an-array](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0994-rotting-oranges](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -152,6 +153,7 @@ My LeetCode solutions and problem-solving practice.
 | [0424-longest-repeating-character-replacement](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0697-degree-of-an-array](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0697-degree-of-an-array/) | Easy |
+| [0930-binary-subarrays-with-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1048-longest-string-chain](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -275,6 +277,7 @@ My LeetCode solutions and problem-solving practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -532,6 +535,7 @@ My LeetCode solutions and problem-solving practice.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |

@@ -65,6 +65,7 @@ My LeetCode solutions and problem-solving practice.
 | [0994-rotting-oranges](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1048-longest-string-chain](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1048-longest-string-chain/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1463-cherry-pickup-ii/) | Hard |
@@ -155,6 +156,7 @@ My LeetCode solutions and problem-solving practice.
 | [0697-degree-of-an-array](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0697-degree-of-an-array/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1048-longest-string-chain](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1048-longest-string-chain/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1695-maximum-erasure-value/) | Medium |
@@ -268,6 +270,7 @@ My LeetCode solutions and problem-solving practice.
 | [0070-climbing-stairs](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0836-rectangle-overlap](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0836-rectangle-overlap/) | Easy |
+| [1248-count-number-of-nice-subarrays](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
@@ -279,6 +282,7 @@ My LeetCode solutions and problem-solving practice.
 | [0560-subarray-sum-equals-k](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 ## String
@@ -537,6 +541,7 @@ My LeetCode solutions and problem-solving practice.
 | [0424-longest-repeating-character-replacement](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |

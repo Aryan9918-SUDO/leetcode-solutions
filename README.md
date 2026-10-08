@@ -141,6 +141,7 @@ My LeetCode solutions and problem-solving practice.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0037-sudoku-solver](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
+| [0076-minimum-window-substring](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0127-word-ladder](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0127-word-ladder/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
@@ -283,6 +284,7 @@ My LeetCode solutions and problem-solving practice.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0072-edit-distance](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
+| [0076-minimum-window-substring](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0127-word-ladder](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0127-word-ladder/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -526,6 +528,7 @@ My LeetCode solutions and problem-solving practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |

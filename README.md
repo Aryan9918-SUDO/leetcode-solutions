@@ -247,6 +247,7 @@ My LeetCode solutions and problem-solving practice.
 | ------- | ------- |
 | [0015-3sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0018-4sum/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0031-next-permutation](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
@@ -314,6 +315,7 @@ My LeetCode solutions and problem-solving practice.
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0141-linked-list-cycle](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |

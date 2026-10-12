@@ -255,6 +255,7 @@ My LeetCode solutions and problem-solving practice.
 | [0148-sort-list](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1048-longest-string-chain](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
@@ -321,6 +322,7 @@ My LeetCode solutions and problem-solving practice.
 | [0206-reverse-linked-list](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0328-odd-even-linked-list/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Recursion

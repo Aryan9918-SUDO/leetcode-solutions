@@ -77,6 +77,7 @@ My LeetCode solutions and problem-solving practice.
 | [1631-path-with-minimum-effort](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1901-find-a-peak-element-ii/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2401-longest-nice-subarray](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2401-longest-nice-subarray/) | Medium |
@@ -358,6 +359,7 @@ My LeetCode solutions and problem-solving practice.
 | [0856-score-of-parentheses](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -620,4 +622,5 @@ My LeetCode solutions and problem-solving practice.
 | [0496-next-greater-element-i](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 <!---LeetCode Topics End-->

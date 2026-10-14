@@ -362,6 +362,7 @@ My LeetCode solutions and problem-solving practice.
 | [0094-binary-tree-inorder-traversal](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0155-min-stack](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0402-remove-k-digits](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
@@ -642,4 +643,8 @@ My LeetCode solutions and problem-solving practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->

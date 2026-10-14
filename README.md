@@ -61,6 +61,7 @@ My LeetCode solutions and problem-solving practice.
 | [0697-degree-of-an-array](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0697-degree-of-an-array/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0733-flood-fill](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
+| [0735-asteroid-collision](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0741-cherry-pickup](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0741-cherry-pickup/) | Hard |
 | [0835-image-overlap](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0835-image-overlap/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -210,6 +211,7 @@ My LeetCode solutions and problem-solving practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
+| [0735-asteroid-collision](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0735-asteroid-collision/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -367,6 +369,7 @@ My LeetCode solutions and problem-solving practice.
 | [0402-remove-k-digits](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0735-asteroid-collision](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |

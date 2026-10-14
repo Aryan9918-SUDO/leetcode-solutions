@@ -156,6 +156,7 @@ My LeetCode solutions and problem-solving practice.
 | [0128-longest-consecutive-sequence](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0146-lru-cache](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0146-lru-cache/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
@@ -339,6 +340,7 @@ My LeetCode solutions and problem-solving practice.
 | [0061-rotate-list](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0146-lru-cache](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0146-lru-cache/) | Medium |
 | [0148-sort-list](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
@@ -649,5 +651,10 @@ My LeetCode solutions and problem-solving practice.
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->

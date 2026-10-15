@@ -52,6 +52,7 @@ My LeetCode solutions and problem-solving practice.
 | [0322-coin-change](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0494-target-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -113,6 +114,7 @@ My LeetCode solutions and problem-solving practice.
 | [0169-majority-element](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0368-largest-divisible-subset/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0912-sort-an-array](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 | [1048-longest-string-chain](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2780-minimum-index-of-a-valid-split/) | Medium |
@@ -242,6 +244,7 @@ My LeetCode solutions and problem-solving practice.
 | [0322-coin-change](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0494-target-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0494-target-sum/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
@@ -592,6 +595,7 @@ My LeetCode solutions and problem-solving practice.
 | [0055-jump-game](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0402-remove-k-digits](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0402-remove-k-digits/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2405-optimal-partition-of-string/) | Medium |

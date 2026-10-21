@@ -117,6 +117,7 @@ My LeetCode solutions and problem-solving practice.
 | [0169-majority-element](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0912-sort-an-array](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
@@ -126,6 +127,7 @@ My LeetCode solutions and problem-solving practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0912-sort-an-array](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -280,6 +282,7 @@ My LeetCode solutions and problem-solving practice.
 | [0148-sort-list](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0876-middle-of-the-linked-list](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1048-longest-string-chain](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -663,6 +666,7 @@ My LeetCode solutions and problem-solving practice.
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -671,4 +675,8 @@ My LeetCode solutions and problem-solving practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 <!---LeetCode Topics End-->

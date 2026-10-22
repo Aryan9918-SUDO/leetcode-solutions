@@ -325,6 +325,7 @@ My LeetCode solutions and problem-solving practice.
 | [0076-minimum-window-substring](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0127-word-ladder](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0127-word-ladder/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0257-binary-tree-paths](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0402-remove-k-digits](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -430,6 +431,7 @@ My LeetCode solutions and problem-solving practice.
 | [0090-subsets-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0216-combination-sum-iii/) | Medium |
+| [0257-binary-tree-paths](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0494-target-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0494-target-sum/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
@@ -451,6 +453,7 @@ My LeetCode solutions and problem-solving practice.
 | [0144-binary-tree-preorder-traversal](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0257-binary-tree-paths](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -468,6 +471,7 @@ My LeetCode solutions and problem-solving practice.
 | [0200-number-of-islands](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0210-course-schedule-ii/) | Medium |
+| [0257-binary-tree-paths](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
@@ -487,6 +491,7 @@ My LeetCode solutions and problem-solving practice.
 | [0144-binary-tree-preorder-traversal](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0257-binary-tree-paths](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |

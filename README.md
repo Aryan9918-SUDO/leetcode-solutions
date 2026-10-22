@@ -451,6 +451,7 @@ My LeetCode solutions and problem-solving practice.
 | [0144-binary-tree-preorder-traversal](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0662-maximum-width-of-binary-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -466,6 +467,7 @@ My LeetCode solutions and problem-solving practice.
 | [0207-course-schedule](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0662-maximum-width-of-binary-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -483,6 +485,7 @@ My LeetCode solutions and problem-solving practice.
 | [0144-binary-tree-preorder-traversal](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0662-maximum-width-of-binary-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -496,6 +499,7 @@ My LeetCode solutions and problem-solving practice.
 | [0207-course-schedule](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0322-coin-change](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
+| [0662-maximum-width-of-binary-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |

@@ -172,6 +172,7 @@ My LeetCode solutions and problem-solving practice.
 | [0424-longest-repeating-character-replacement](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0697-degree-of-an-array](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0697-degree-of-an-array/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1048-longest-string-chain](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1048-longest-string-chain/) | Medium |
@@ -283,6 +284,7 @@ My LeetCode solutions and problem-solving practice.
 | [0160-intersection-of-two-linked-lists](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1048-longest-string-chain](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -459,6 +461,7 @@ My LeetCode solutions and problem-solving practice.
 | [0257-binary-tree-paths](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -481,6 +484,7 @@ My LeetCode solutions and problem-solving practice.
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0785-is-graph-bipartite/) | Medium |
@@ -505,6 +509,7 @@ My LeetCode solutions and problem-solving practice.
 | [0257-binary-tree-paths](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -521,6 +526,7 @@ My LeetCode solutions and problem-solving practice.
 | [0207-course-schedule](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0322-coin-change](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0785-is-graph-bipartite/) | Medium |
@@ -712,6 +718,7 @@ My LeetCode solutions and problem-solving practice.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |

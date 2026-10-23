@@ -456,6 +456,7 @@ My LeetCode solutions and problem-solving practice.
 | [0257-binary-tree-paths](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -494,6 +495,7 @@ My LeetCode solutions and problem-solving practice.
 | [0257-binary-tree-paths](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -692,4 +694,8 @@ My LeetCode solutions and problem-solving practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->

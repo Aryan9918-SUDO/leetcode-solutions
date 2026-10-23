@@ -455,6 +455,7 @@ My LeetCode solutions and problem-solving practice.
 | [0199-binary-tree-right-side-view](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0257-binary-tree-paths/) | Easy |
+| [0450-delete-node-in-a-bst](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -496,6 +497,7 @@ My LeetCode solutions and problem-solving practice.
 | [0199-binary-tree-right-side-view](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0257-binary-tree-paths/) | Easy |
+| [0450-delete-node-in-a-bst](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -701,6 +703,7 @@ My LeetCode solutions and problem-solving practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0450-delete-node-in-a-bst](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |

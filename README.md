@@ -96,6 +96,7 @@ My LeetCode solutions and problem-solving practice.
 | [2965-find-missing-and-repeated-values](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
 | [3527-find-the-most-common-response](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/3527-find-the-most-common-response/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Divide and Conquer
@@ -220,6 +221,7 @@ My LeetCode solutions and problem-solving practice.
 | [1901-find-a-peak-element-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3665-twisted-mirror-path-count](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -270,6 +272,7 @@ My LeetCode solutions and problem-solving practice.
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |

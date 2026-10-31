@@ -15,6 +15,7 @@ My LeetCode solutions and problem-solving practice.
 | [0039-combination-sum](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0045-jump-game-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0051-n-queens](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
@@ -233,6 +234,7 @@ My LeetCode solutions and problem-solving practice.
 | [0005-longest-palindromic-substring](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0045-jump-game-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
@@ -642,6 +644,7 @@ My LeetCode solutions and problem-solving practice.
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0135-candy](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0135-candy/) | Hard |

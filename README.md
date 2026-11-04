@@ -242,6 +242,7 @@ My LeetCode solutions and problem-solving practice.
 | [0070-climbing-stairs](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0085-maximal-rectangle/) | Hard |
+| [0091-decode-ways](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0091-decode-ways/) | Medium |
 | [0118-pascals-triangle](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0120-triangle](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0120-triangle/) | Medium |
@@ -335,6 +336,7 @@ My LeetCode solutions and problem-solving practice.
 | [0022-generate-parentheses](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0072-edit-distance](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
+| [0091-decode-ways](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0091-decode-ways/) | Medium |
 | [0127-word-ladder](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0127-word-ladder/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0257-binary-tree-paths/) | Easy |

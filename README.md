@@ -48,6 +48,7 @@ My LeetCode solutions and problem-solving practice.
 | [0213-house-robber-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0216-combination-sum-iii/) | Medium |
+| [0221-maximal-square](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0221-maximal-square/) | Medium |
 | [0229-majority-element-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -210,6 +211,7 @@ My LeetCode solutions and problem-solving practice.
 | [0085-maximal-rectangle](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0130-surrounded-regions](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
+| [0221-maximal-square](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0221-maximal-square/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0463-island-perimeter](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0733-flood-fill](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
@@ -258,6 +260,7 @@ My LeetCode solutions and problem-solving practice.
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0213-house-robber-ii/) | Medium |
+| [0221-maximal-square](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0221-maximal-square/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0322-coin-change/) | Medium |

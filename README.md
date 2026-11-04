@@ -244,6 +244,7 @@ My LeetCode solutions and problem-solving practice.
 | [0085-maximal-rectangle](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0091-decode-ways](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0091-decode-ways/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0118-pascals-triangle](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0120-triangle](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0120-triangle/) | Medium |
@@ -311,6 +312,7 @@ My LeetCode solutions and problem-solving practice.
 | [0002-add-two-numbers](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0062-unique-paths](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0836-rectangle-overlap](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -463,6 +465,7 @@ My LeetCode solutions and problem-solving practice.
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0095-unique-binary-search-trees-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0101-symmetric-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
@@ -513,6 +516,7 @@ My LeetCode solutions and problem-solving practice.
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0095-unique-binary-search-trees-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0101-symmetric-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
@@ -734,6 +738,7 @@ My LeetCode solutions and problem-solving practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aryan9918-SUDO/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
